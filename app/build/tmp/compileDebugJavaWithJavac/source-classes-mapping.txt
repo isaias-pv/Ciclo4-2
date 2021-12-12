@@ -1,0 +1,41 @@
+com/retos/r1/ui/product/ProductFragment.java
+ com.retos.r1.ui.product.ProductFragment
+com/retos/r1/databinding/NavHeaderMainBinding.java
+ com.retos.r1.databinding.NavHeaderMainBinding
+com/retos/r1/ui/home/HomeViewModel.java
+ com.retos.r1.ui.home.HomeViewModel
+com/retos/r1/databinding/FragmentProductBinding.java
+ com.retos.r1.databinding.FragmentProductBinding
+com/retos/r1/BuildConfig.java
+ com.retos.r1.BuildConfig
+com/retos/r1/databinding/ActivityMainBinding.java
+ com.retos.r1.databinding.ActivityMainBinding
+com/retos/r1/ui/service/ServiceFragment.java
+ com.retos.r1.ui.service.ServiceFragment
+ com.retos.r1.ui.service.ServiceFragment$1
+com/retos/r1/ui/service/ServiceViewModel.java
+ com.retos.r1.ui.service.ServiceViewModel
+com/retos/r1/ui/branch/BranchViewModel.java
+ com.retos.r1.ui.branch.BranchViewModel
+com/retos/r1/databinding/ContentMainBinding.java
+ com.retos.r1.databinding.ContentMainBinding
+com/retos/r1/databinding/AppBarMainBinding.java
+ com.retos.r1.databinding.AppBarMainBinding
+com/retos/r1/databinding/FragmentHomeBinding.java
+ com.retos.r1.databinding.FragmentHomeBinding
+com/retos/r1/MainActivity.java
+ com.retos.r1.MainActivity
+ com.retos.r1.MainActivity$1
+com/retos/r1/ui/product/ProductViewModel.java
+ com.retos.r1.ui.product.ProductViewModel
+com/retos/r1/ui/classes/Client.java
+ com.retos.r1.ui.classes.Client
+com/retos/r1/databinding/FragmentBranchBinding.java
+ com.retos.r1.databinding.FragmentBranchBinding
+com/retos/r1/databinding/FragmentServiceBinding.java
+ com.retos.r1.databinding.FragmentServiceBinding
+com/retos/r1/ui/home/HomeFragment.java
+ com.retos.r1.ui.home.HomeFragment
+ com.retos.r1.ui.home.HomeFragment$1
+com/retos/r1/ui/branch/BranchFragment.java
+ com.retos.r1.ui.branch.BranchFragment

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">PANE</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">PANE</string>
+    <string name="nav_header_subtitle">Panadería Artesanal</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_gallery">Servicios</string>
+    <string name="menu_slideshow">Sucursales</string>
+    <string name="menu_product">Productos</string>
+
+
+    <string name="titleProductOne">Pan de Dulce </string>
+    <string name="DescriptionProductOne">
+        Este pan esta hecho con buena masa,
+        con un sabor delicioso y es demasiado esponjoso.
+    </string>
+    <string name="titleProductTwo">Pan Integral</string>
+    <string name="DescriptionProductTwo">
+        Este pan esta hecho con buena masa,
+        con un sabor delicioso y es demasiado esponjoso.
+    </string>
+    <string name="titleProductThree">Pan Cortado</string>
+    <string name="DescriptionProductThree">
+        Este pan esta hecho con buena masa,
+        con un sabor delicioso y es demasiado esponjoso.
+    </string>
+</resources>
